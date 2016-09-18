@@ -1,0 +1,5 @@
+1. http://stackoverflow.com/questions/35641019/how-do-you-use-credentials-saved-by-the-browser-in-auto-login-script-in-python-2
+2. https://automatetheboringstuff.com/chapter11/
+3. http://stackoverflow.com/questions/34794915/selenium-firefox-profile-not-working
+4. https://bugs.chromium.org/p/chromedriver/issues/detail?id=1140
+5. https://src.chromium.org/chrome/trunk/src/content/browser/gpu/shader_disk_cache.cc
